@@ -1,4 +1,4 @@
-just normal login page
+*just normal login page
 
 trying sqlmap  didnot work 
 
