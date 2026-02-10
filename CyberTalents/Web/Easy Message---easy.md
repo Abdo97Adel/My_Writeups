@@ -26,8 +26,8 @@ if ($user == base64_decode('Q3liZXItVGFsZW50') && $pass == base64_decode('Q3liZX
 ?>
 
 --
-user =Cyber-Talent
-pass =Cyber-Talent
+user =  Cyber-Talent
+pass =  Cyber-Talent
 --
 
 loged in >
